@@ -1,3 +1,4 @@
+![image](https://github.com/sadhanasharma1/sadhanasharma1/assets/117315849/60047eec-a713-449d-826e-cfbefe8cef1c)
 <h1 align="center">Hi 👋, I'm Sadhana Sharma</h1>
 <h3 align="center">I'm a CP enthusiast and love DSA problem solving. Finding great interest in Web dev</h3>
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
@@ -7,7 +8,7 @@
 
 - 🔭 I’m currently working on **Accenture Innovation Challenge**
 
-- 🌱 I’m currently learning **Backend Web development, DSA and CS fundamentals**
+- 🌱 I’m currently learning **Backend development, DSA and CS fundamentals**
 
 - 👯 I’m looking to collaborate on [Shopify](https://abhradip-saha.github.io/Shopify)
 
@@ -24,15 +25,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/123sadhana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="123sadhana_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadhana-sharma-115914227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadhana-sharma-115914227/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sadhana_sharma153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sadhana_sharma153/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwyu0ryji8rl5kmvr5shdtq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwyu0ryji8rl5kmvr5shdtq" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sadhanasharma1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sadhanasharma1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sadhanaksharma6?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sadhanaksharma6?hr_r=1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/sadhanasharma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sadhanasharma1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sadhanasharma14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sadhanasharma14/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@sadhanaksharma6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@sadhanaksharma6" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sadhanaksharma6/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sadhanaksharma6/practice" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sadhana-sharma-115914227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadhana-sharma-115914227/" height="30" width="40" /></a>
+<a href="https://instagram.com/sadhana_sharma153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sadhana_sharma153/" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/https://www.youtube.com/channel/ucwyu0ryji8rl5kmvr5shdtq](https://www.youtube.com/channel/UCwyU0rYJI8rl5kmvr5ShDtQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwyu0ryji8rl5kmvr5shdtq" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sadhanasharma1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sadhanasharma1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sadhanaksharma6?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sadhanaksharma6?hr_r=1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sadhanasharma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sadhanasharma1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sadhanasharma14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sadhanasharma14/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sadhanaksharma6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@sadhanaksharma6" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sadhanaksharma6/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sadhanaksharma6/practice" height="30" width="40" /></a>
 <a href="https://discord.gg/sadhana_09042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sadhana_09042" height="30" width="40" /></a>
 </p>
 
