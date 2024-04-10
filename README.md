@@ -6,11 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/123sadhana_" target="blank"><img src="https://img.shields.io/twitter/follow/123sadhana_?logo=twitter&style=for-the-badge" alt="123sadhana_" /></a> </p>
 
-- 🔭 I’m currently working on **Accenture Innovation Challenge**
-
 - 🌱 I’m currently learning **Backend development, DSA and CS fundamentals**
-
-- 👯 I’m looking to collaborate on [Shopify](https://abhradip-saha.github.io/Shopify)
 
 - 👨‍💻 All of my projects are available at [https://sadhanasharma1.github.io/portfolio/](https://sadhanasharma1.github.io/portfolio/)
 
@@ -20,7 +16,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17aeA-Y5t920oomEp3anH_1_Y6cIN5ogq/view?usp=drive_link](https://drive.google.com/file/d/17aeA-Y5t920oomEp3anH_1_Y6cIN5ogq/view?usp=drive_link)
 
-- ⚡ Fun fact **I am an underrated vlogger😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
